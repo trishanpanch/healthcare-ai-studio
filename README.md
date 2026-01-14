@@ -22,7 +22,7 @@ By the end of the course, participants will be able to lead an AI-enabled digita
 *   **Course Co-Leads:**
     *   **Dr. Trishan Panch** (Executive Director, AI in Healthcare Specialization)
     *   **Prof. Rifat Atun** (Professor of Global Health Systems, Harvard T.H. Chan School of Public Health)
-*   **Practical & Technical Faculty:** Gianluca Mauro, Luke Piyapilli
+*   **Practical & Technical Faculty:** Gianluca Mauro, Luke Payyapilli
 *   **Guest Lecturers:** John Brownstein, Lindsay Jubelt, Alan Karthikesalingam
 
 ---
