@@ -1,0 +1,15 @@
+# System files
+.DS_Store
+
+# User-specific output
+_bmad-output/
+*.log
+
+# Personal/IDE configuration
+.claude/
+.idea/
+.vscode/
+
+# Temporary files
+tmp/
+temp/
