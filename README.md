@@ -40,7 +40,17 @@ The "Healthcare AI Studio" is the core technical spine of the course. It is an o
 Participants do not just "prompt an LLM". They orchestrate a virtual expert council. The system enforces structured reasoning, consistent documentation, and repeatable decision-making.
 
 ### Your Expert Team
-Reflecting the interdisciplinary nature of the course, this studio comes pre-staffed with three specialized persona agents:
+The studio provides you with a complete, AI-powered organization.
+
+**The Core Product Team:**
+To go from ideation to shipping code, you have access to the full standard suite of agentic roles:
+*   **@Analyst:** For market research and requirements gathering.
+*   **@PM (Product Manager):** For defining the PRD and user stories.
+*   **@Architect:** For system design and technical decision making.
+*   **@Dev:** For writing, testing, and debugging code.
+
+**The Healthcare Leadership Team:**
+Reflecting the interdisciplinary nature of the course, this studio also comes pre-staffed with three specialized persona agents:
 
 #### 1. Trishan (Strategy & VC) `[TP]`
 *   **Role:** Executive Strategy & Clinical AI Architect.
@@ -56,6 +66,16 @@ Reflecting the interdisciplinary nature of the course, this studio comes pre-sta
 *   **Role:** Chief Clinical Officer & VBC Strategist.
 *   **Focus:** Value-Based Care, population health at scale, and payer-provider integration.
 *   **Trigger:** `@Lindsay` or `[LJ]`
+
+---
+
+## 💡 The Vision: Superpowers for Leaders
+
+Historically, transforming healthcare required large teams, significant capital, and months of time. The **Healthcare AI Studio** changes this equation.
+
+We aim to give healthcare leaders **superpowers**. By pairing your domain expertise with this agentic software suite, you can design, build, and validate solutions yourself. This is not just a tool; it is a revolution in how we approach healthcare innovation, enabling you to do what used to cost hundreds of thousands of dollars—on your own laptop, today.
+
+*> **Note:** This software is provided as a free, open-source educational resource for the Harvard University course. It is designed to empower students and practitioners to innovate freely.*
 
 ---
 
