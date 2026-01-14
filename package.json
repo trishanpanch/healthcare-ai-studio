@@ -1,7 +1,7 @@
 {
   "name": "healthcare-ai-studio",
   "version": "1.0.0",
-  "description": "Health Tech Development Environment with Integrated BMAD Agents",
+  "description": "The official software suite for the Healthcare AI Studio course at Harvard University",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
