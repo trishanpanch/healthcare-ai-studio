@@ -1,5 +1,5 @@
 {
-  "name": "vibecoda-health-tech",
+  "name": "healthcare-ai-studio",
   "version": "1.0.0",
   "description": "Health Tech Development Environment with Integrated BMAD Agents",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Start-Impulse/vibecoda.git"
+    "url": "git+https://github.com/trishanpanch/healthcare-ai-studio.git"
   },
   "keywords": [
     "bmad",
@@ -18,7 +18,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Start-Impulse/vibecoda/issues"
+    "url": "https://github.com/trishanpanch/healthcare-ai-studio/issues"
   },
-  "homepage": "https://github.com/Start-Impulse/vibecoda#readme"
+  "homepage": "https://github.com/trishanpanch/healthcare-ai-studio#readme"
 }

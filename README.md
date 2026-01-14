@@ -1,6 +1,6 @@
-# VibeCoda: Health Tech Agentic Studio
+# Healthcare AI Studio: Health Tech Agentic Studio
 
-**VibeCoda** is a standalone, "batteries-included" development environment optimized for Health Tech innovation. It comes pre-installed with the complete [BMAD](https://github.com/Start-Impulse/BMad) agentic system and a suite of specialized expert agents.
+**Healthcare AI Studio** is a standalone, "batteries-included" development environment optimized for Health Tech innovation. It comes pre-installed with the complete [BMAD](https://github.com/Start-Impulse/BMad) agentic system and a suite of specialized expert agents.
 
 **No additional setup required.** Just clone this repository and start building.
 
@@ -10,8 +10,8 @@
 
 1.  **Clone this repository**:
     ```bash
-    git clone https://github.com/your-org/vibecoda.git
-    cd vibecoda
+    git clone https://github.com/trishanpanch/healthcare-ai-studio.git
+    cd healthcare-ai-studio
     ```
 
 2.  **Start Building**:
