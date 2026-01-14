@@ -1,37 +1,68 @@
-# Health Tech Agent Configuration for BMAD
+# VibeCoda: Health Tech Agentic Studio
 
-This repository contains a custom configuration for the [BMAD](https://github.com/Start-Impulse/BMad) agent system, featuring three specialized agents for the Health Tech domain.
+**VibeCoda** is a standalone, "batteries-included" development environment optimized for Health Tech innovation. It comes pre-installed with the complete [BMAD](https://github.com/Start-Impulse/BMad) agentic system and a suite of specialized expert agents.
 
-## Included Agents
+**No additional setup required.** Just clone this repository and start building.
 
-1.  **Trishan (Strategy & VC)** `[TP]`
-    *   **Role:** Executive Strategy & Clinical AI Architect.
-    *   **Focus:** Balances clinical rigor with venture scalability.
-    *   **Features:** "Founder's Sanity Check", "Clinical Safety Audit".
+---
 
-2.  **Rifat (Global Health)** `[RA]`
-    *   **Role:** Professor of Global Health Systems.
-    *   **Focus:** Health systems innovation, diagonal approach, and scalability in LMICs.
-    *   **Features:** "Diagonal Approach Audit", "Innovation Scalability Test".
+## 🚀 Getting Started
 
-3.  **Lindsay (Clinical Operations)** `[LJ]`
-    *   **Role:** Chief Clinical Officer & VBC Strategist.
-    *   **Focus:** Value-Based Care, population health at scale, and payer-provider integration.
-    *   **Features:** "Value-Based Care Audit", "Operational Scalability Review".
+1.  **Clone this repository**:
+    ```bash
+    git clone https://github.com/your-org/vibecoda.git
+    cd vibecoda
+    ```
 
-## Installation
+2.  **Start Building**:
+    *   Source code goes in `src/`.
+    *   Documentation goes in `docs/`.
+    *   Engage with the agents using your AI Assistant.
 
-1.  **Requirement:** Ensure you have the BMAD system installed in your project.
-2.  **Copy Files:** Copy the `_bmad` directory from this repository into the root of your project.
-    *   This will add the new agents to `_bmad/custom/agents/`
-    *   This will add the workflows to `_bmad/custom/workflows/`
-    *   This will update your `_bmad/_config/agent-manifest.csv` to include the new agents.
-    *   This will update `pm.md` and `analyst.md` with the switching menu items.
+3.  **Interact with Agents**:
+    You have access to the full suite of BMAD agents (Analyst, PM, Dev, Architect) plus your specialized Health Tech team.
 
-## Usage
+---
 
-Once installed, you can access these agents through the **Analyst** or **Product Manager** agents by selecting the corresponding menu options or using their triggers:
+## 👩‍⚕️ implementation Team (Included)
 
-*   **[TP]** for Trishan
-*   **[RA]** for Rifat
-*   **[LJ]** for Lindsay
+This studio comes pre-staffed with three specialized persona agents designed to cover the specialized needs of health tech ventures:
+
+### 1. Trishan (Strategy & VC) `[TP]`
+*   **Role:** Executive Strategy & Clinical AI Architect.
+*   **Focus:** Balancing clinical rigor with venture scalability.
+*   **Specialty:** "Founder's Sanity Check", Clinical Safety Audits, Investor-lens reviews.
+*   **Trigger:** `@Trishan` or `[TP]`
+
+### 2. Rifat (Global Health) `[RA]`
+*   **Role:** Professor of Global Health Systems.
+*   **Focus:** Health systems innovation, diagonal approach, and scalability in LMICs.
+*   **Specialty:** Complex Adaptive Systems, Diagonal Approach implementation.
+*   **Trigger:** `@Rifat` or `[RA]`
+
+### 3. Lindsay (Clinical Operations) `[LJ]`
+*   **Role:** Chief Clinical Officer & VBC Strategist.
+*   **Focus:** Value-Based Care, population health at scale, and payer-provider integration.
+*   **Specialty:** Operational Scalability, Unit Economics, Home Hospital models.
+*   **Trigger:** `@Lindsay` or `[LJ]`
+
+---
+
+## 🛠 Project Structure
+
+*   `src/`: **(Empty)** Your application code lives here.
+*   `docs/`: **(Empty)** Your project documentation.
+*   `_bmad/`: **(Do Not Touch)** Contains the brain of the agents.
+    *   `_bmad/core`: Core system logic.
+    *   `_bmad/custom`: Configuration for Trishan, Rifat, and Lindsay.
+*   `.agent/workflows`: Pre-defined agent workflows.
+
+## ⚡️ Powered by BMAD
+
+This repository includes the full [BMAD (Building Multi-Agent Districts)](https://github.com/Start-Impulse/BMad) core, meaning you have immediate access to standard workflows like:
+*   **@Analyst**: For requirements gathering and market research.
+*   **@Architect**: For system design and technology choices.
+*   **@Dev**: For code implementation and testing.
+*   **@PM**: For product management and PRDs.
+
+Happy Building!
